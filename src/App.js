@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import logo2 from './logo2.jpg';
 import './App.css';
 
 function App() {
@@ -6,8 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo2} className="App-logo2" alt="logo2" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I just edited this in my react app.
         </p>
         <a
           className="App-link"
